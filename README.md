@@ -7,9 +7,11 @@ I'm a Data Science enthusiast passionate about building ML applications and user
 ## Featured Projects
 
 - [SmartCare Locator](https://github.com/sayalisnage/Smart-Childcare-Locator-With-Machine-Learning)
+  
 *Machine learning-powered childcare cost predictor and personalized recommender system.*
 
 - [The AI Gardener](https://github.com/sayalisnage/ai-gardener-openai-streamlit)
+  
 *AI-powered gardening assistant built with OpenAI fine-tuning and deployed using Streamlit.*
 
 ---
