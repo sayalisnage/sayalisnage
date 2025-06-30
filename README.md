@@ -1,20 +1,20 @@
-# 👋 Hi, I'm Sayali!
+# Hi, I'm Sayali!
 
 I'm a Data Science enthusiast passionate about building ML applications and user-focused applications. With a background in the electrical and power sector, I'm now focused on applying data science to real-world challenges—particularly in sustainability, public services, and intelligent systems.
 
 ---
 
-## 🌟 Current Projects
+## Featured Projects
 
-🔹 **SmartCare Locator**  
-Childcare cost prediction and personalized center recommendation using socioeconomic and NDCP data. Combines regression modeling with a recommender system, deployed as a Streamlit app.
+- [SmartCare Locator](https://github.com/sayalisnage/Smart-Childcare-Locator-With-Machine-Learning)
+*Machine learning-powered childcare cost predictor and personalized recommender system.*
 
-🔹 **The AI Gardener**  
-Fine-tuned GPT-4o assistant that gives personalized gardening advice, built with OpenAI’s API and deployed via Streamlit. Includes NLP preprocessing, prompt design, and full model fine-tuning.
+- [The AI Gardener](https://github.com/sayalisnage/ai-gardener-openai-streamlit)
+*AI-powered gardening assistant built with OpenAI fine-tuning and deployed using Streamlit.*
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**: Python, SQL, R  
 **Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, XGBoost, LightGBM  
@@ -23,7 +23,7 @@ Fine-tuned GPT-4o assistant that gives personalized gardening advice, built with
 
 ---
 
-## 📈 Interests
+## Interests
 
 - ML & NLP for social good  
 - Recommender systems  
@@ -33,9 +33,9 @@ Fine-tuned GPT-4o assistant that gives personalized gardening advice, built with
 
 ---
 
-## 🤝 Let’s Connect!
+## Let’s Connect!
 
-📬 [Email](sayalinage@gmail.com)  
-💼 [LinkedIn](www.linkedin.com/in/sayali-nage-34303b136)  
+[Email](sayalinage@gmail.com)  
+[LinkedIn](www.linkedin.com/in/sayali-nage-34303b136)  
 
-Thanks for stopping by! ✨
+Thanks for stopping by! 
